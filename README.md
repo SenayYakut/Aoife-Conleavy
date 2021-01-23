@@ -8,6 +8,7 @@ Using your understanding of typography, Build and Deploy a landing page for Aoif
 
 Install the project locally
 ```bash
+https://github.com/SenayYakut/Aoife-Conleavy.git
 ```
 
 ## Usage
