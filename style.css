@@ -228,3 +228,11 @@ footer em {
         overflow: hidden;
     }
 }
+
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    color: #000;
+}
