@@ -101,9 +101,10 @@ html {
     button {
         height: 2rem;
         width: 10rem;
-        font-size: 1rem;
+        font-size: 0.8rem;
         background-color: #15d9e9;
     }
+   
 }
 
 @media only screen and (min-width: 531px) {
