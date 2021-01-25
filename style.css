@@ -191,6 +191,8 @@ footer {
     background-color: #212121;
 }
 
+
+
 footer .image-container {
     width: 400px;
 }
@@ -217,6 +219,13 @@ footer em {
     color: #cfcfcf;
 }
 
+#creator {
+    float: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    color: #000;
+}
 @media only screen and (max-width: 750px) {
     footer {
         flex-direction: column;
@@ -229,10 +238,4 @@ footer em {
     }
 }
 
-#creator {
-    float: right;
-    font-family: "Dancing script", cursive;
-    margin-right: 10px;
-    margin-bottom: 20px;
-    color: #000;
-}
+
